@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/HomePay.iml" filepath="$PROJECT_DIR$/HomePay.iml" />
       <module fileurl="file://$PROJECT_DIR$/hp_core/hp_core.iml" filepath="$PROJECT_DIR$/hp_core/hp_core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hp_page/hp_page.iml" filepath="$PROJECT_DIR$/hp_page/hp_page.iml" />
     </modules>
   </component>
 </project>
