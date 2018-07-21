@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/HomePay.iml" filepath="$PROJECT_DIR$/HomePay.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hp_core/hp_core.iml" filepath="$PROJECT_DIR$/hp_core/hp_core.iml" />
     </modules>
   </component>
 </project>
